@@ -43,6 +43,8 @@ This is a simple Flask API that serves data from a text file (`test.txt`) as JSO
 - `test3.json`: Output JSON file.
 - `README.md`: Project documentation.
 
+The apicall.py file can be sued to test run the api after updating the ipaddress value with your host address
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
