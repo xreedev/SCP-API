@@ -1,4 +1,4 @@
 import requests
-
-response=requests.get(enetr ip address)
+ipadress=""
+response=requests.get(ipaddress)
 print(response.json())
