@@ -1,6 +1,7 @@
 # SCP API
 
-This is a simple Flask API that serves data from a text file (`test.txt`) as JSON.
+This is a simple Flask API that serves data from a text file (`test.txt`) as JSON.This was built as a 
+simple project to better understand APIs
 
 ## Installation
 
