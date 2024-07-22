@@ -20,7 +20,7 @@ simple project to better understand APIs
 3. Install the required dependencies:
 
     ```bash
-    pip install Flask
+    pip install Requirements.txt
     ```
 
 ## Usage
